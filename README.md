@@ -7,5 +7,5 @@
 - os
 - time
 - reflector
-- math
+- math, math/rand
 - log

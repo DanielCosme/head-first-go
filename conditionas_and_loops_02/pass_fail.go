@@ -31,6 +31,7 @@ func main() {
 	input = strings.TrimSpace(input)
 
 	// Convert the string into a number
+	// Only one variable in a short variable declaration has to be new
 	grade, err := strconv.ParseFloat(input, 64)
 	if err != nil {
 		log.Fatal(err)

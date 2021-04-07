@@ -3,6 +3,24 @@
 - Function/method (invocations)
 - Conditionals
 - Loops
-- Function (declarations)
+- Function (declarations/definitions)
 - Pointers
-
+- Packages
+    - godoc -http=:8888
+    - go doc
+    - modules
+    - gopath
+    - go get
+- Arrays
+    - for 
+    - for ...range 
+- Slices
+- Variadic functions and paramters.
+- Maps
+- Structs
+- Defined types
+    - Method (declarations/definitions)
+    - Encapsulation
+    - Embedding
+- Interfaces
+    - Type assertions

@@ -9,3 +9,7 @@
 - reflector
 - math, math/rand
 - log
+- scanner
+- sort
+- error --> Interface
+- stringer --> Interface (ToString)

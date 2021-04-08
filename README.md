@@ -11,5 +11,6 @@
 - log
 - scanner
 - sort
+- errors
 - error --> Interface
-- stringer --> Interface (ToString)
+- stringer --> Interface, implements String() (ToString)

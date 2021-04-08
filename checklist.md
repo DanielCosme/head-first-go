@@ -24,3 +24,12 @@
     - Embedding
 - Interfaces
     - Type assertions
+- Error handling
+    - Errors as values
+    - panic
+    - recover
+- Defer
+- CONCURRENCY
+    - Goroutines (keyword, construct)
+    - Channels (Primitive)
+    - Select (keyword, construct)

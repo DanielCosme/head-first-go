@@ -1,5 +1,53 @@
 # go-head-on
 
+## Golang Toolbox
+- Types
+- Function/method (invocations)
+- Conditionals
+- Loops
+- Function (declarations/definitions)
+- Pointers
+- Packages
+    - godoc -http=:8888
+    - go modules
+    - gopath
+    - go get
+    - mod file
+    - sum file
+- Arrays
+    - for
+    - for ...range
+- Slices
+- Variadic functions and paramters.
+- Maps
+- Structs
+- Defined types
+    - Method (declarations/definitions)
+    - Encapsulation
+    - Embedding
+- Interfaces
+    - Type assertions
+- Error handling
+    - Errors as values
+    - panic
+    - recover
+- Defer
+- CONCURRENCY
+    - Goroutines (keyword, construct)
+    - Channels (Primitive)
+    - Select (keyword, construct)
+- Automated testing
+
+## Cli tools
+- go fmt
+- go build
+- go install
+- go run
+- go doc
+- godoc
+    - godocc (colored output to terminal)
+- go test
+    - gotest (colored output to terminla)
 ## packages
 - strings
 - bufio

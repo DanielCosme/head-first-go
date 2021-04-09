@@ -7,13 +7,14 @@
 - Pointers
 - Packages
     - godoc -http=:8888
-    - go doc
-    - modules
+    - go modules
     - gopath
     - go get
+    - mod file
+    - sum file
 - Arrays
-    - for 
-    - for ...range 
+    - for
+    - for ...range
 - Slices
 - Variadic functions and paramters.
 - Maps
@@ -33,3 +34,15 @@
     - Goroutines (keyword, construct)
     - Channels (Primitive)
     - Select (keyword, construct)
+- Automated testing
+
+# Cli tools
+- go fmt
+- go build
+- go install
+- go run
+- go doc
+- godoc
+    - godocc (colored output to terminal)
+- go test
+    - gotest (colored output to terminla)

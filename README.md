@@ -14,3 +14,4 @@
 - errors
 - error --> Interface
 - stringer --> Interface, implements String() (ToString)
+- testing

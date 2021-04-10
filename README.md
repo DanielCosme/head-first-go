@@ -37,6 +37,13 @@
     - Channels (Primitive)
     - Select (keyword, construct)
 - Automated testing
+- Web 
+    - Apps
+    - Servers
+    - http handler functions
+- First class functions
+- Higher order functions
+
 
 ## Cli tools
 - go fmt
@@ -49,6 +56,7 @@
 - go test
     - gotest (colored output to terminla)
 ## packages
+- io --> io.Writer --> interface.
 - strings
 - bufio
 - fmt
@@ -63,3 +71,11 @@
 - error --> Interface
 - stringer --> Interface, implements String() (ToString)
 - testing
+- net/http
+    - ListenAndServe --> function
+    - Handler --> Interface
+    - resquest --> type
+    - response --> type
+- text/template
+- html/template
+

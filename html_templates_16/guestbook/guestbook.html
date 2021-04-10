@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>Guestbook APP</title>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <main>
+            <section>
+                <h1>Guestbook</h1>
+                <p>{{.SignatureCount}} Total signatures - <a href="/signature"><u>Add Your Signature Here</u></a></p>
+            </section>
+            <section>
+                <h4>Signatures</h4>
+                <ul>
+                    {{range .Signatures}}
+                    <li> {{.}} </li>
+                    {{end}}
+                </ul>
+            </section>
+        </main>
+    </body>
+</html>

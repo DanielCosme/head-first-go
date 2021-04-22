@@ -1,5 +1,8 @@
 # go-head-on
 
+Companion snippets for the book Head First Go.
+This repository is for me to have a reference of basic aspects of the language that I might need to recall in the future.
+
 ## Golang Toolbox
 - Types
 - Function/method (invocations)
